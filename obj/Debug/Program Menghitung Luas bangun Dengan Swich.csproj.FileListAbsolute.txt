@@ -1,0 +1,10 @@
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\bin\Debug\Program Menghitung Luas bangun Dengan Swich.exe.config
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\bin\Debug\Program Menghitung Luas bangun Dengan Swich.exe
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\bin\Debug\Program Menghitung Luas bangun Dengan Swich.pdb
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\obj\Debug\Program Menghitung Luas bangun Dengan Swich.csproj.AssemblyReference.cache
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\obj\Debug\Program_Menghitung_Luas_bangun_Dengan_Swich.Form1.resources
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\obj\Debug\Program_Menghitung_Luas_bangun_Dengan_Swich.Properties.Resources.resources
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\obj\Debug\Program Menghitung Luas bangun Dengan Swich.csproj.GenerateResource.cache
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\obj\Debug\Program Menghitung Luas bangun Dengan Swich.csproj.CoreCompileInputs.cache
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\obj\Debug\Program Menghitung Luas bangun Dengan Swich.exe
+C:\Users\Rizki\source\repos\Program Menghitung Luas bangun Dengan Swich\obj\Debug\Program Menghitung Luas bangun Dengan Swich.pdb
